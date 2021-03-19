@@ -1,2 +1,6 @@
 venv
 .vscode
+__pycache__
+generated_files_history
+*.csv
+constants.py
